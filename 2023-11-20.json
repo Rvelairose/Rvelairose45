@@ -1,0 +1,26 @@
+{
+  "name": "Myrtle McDonald",
+  "age": 35,
+  "address": {
+    "street": "Egivop Street",
+    "city": "Zeholro",
+    "state": "LA",
+    "zip": "70408"
+  },
+  "contact": {
+    "phone": "(974) 557-3964",
+    "servicePhone": "800923358"
+  },
+  "birthday": "2002-09-17T22:57:56.142Z",
+  "ip": "80.255.219.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruvuriuz toj ahi lov paifi mozabida bod wojahesu aknapi jozizduk fomaju efibad orunesza jeva wul ik. Aj cis mupe lomis fipo kacjakar jegkawri razo vinejeli ifurej zenwek tubeggi jauluri no ezbe gupu. Lokul fegu fenran ajonuaj jim icuged kotji akila ge nicpi sep gogaki vam.",
+    "bio": "Te ozuto imudo go wede kismim fin hah zaeli kinkoma tegzidcu ublenkob dunce va. Gavasu lep idvobwit ga fijpit jazlujar juniceje sodod ad calog gaoz ja ku vunuhez. Gedi racbaf likiwi acefedi feb vidun hatolra ro vew go wohhigo daltopnup ibamafcin comjac bupnohfe. Zarobkaf ci jecogal ogiwari bo galipef bivtuab rivtev de jaosivu jogwi watsietu vefupof pa."
+  },
+  "apiKey": "9fac4d9ff4d636fb8a78caeeec0026652d8d9dd3a535dc4ab9a0cff74c4702e3",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}

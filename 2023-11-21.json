@@ -1,0 +1,26 @@
+{
+  "name": "David Carson",
+  "age": 32,
+  "address": {
+    "street": "Caho Ridge",
+    "city": "Uwufuva",
+    "state": "MT",
+    "zip": "73900"
+  },
+  "contact": {
+    "phone": "(568) 684-4140",
+    "servicePhone": "800648892"
+  },
+  "birthday": "1962-06-09T04:57:16.665Z",
+  "ip": "48.188.94.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Lu ucahum watidcah vumugu obneduz repliif ze lavonek ate bu fu ud itogu ked koc. Pa luksib beti ec nekwuva pateg sigiv fiv uh miraosu bizdikca ormuftat. Wuc fi zouw zacelos gu demawfe ati ike wiji wuk so etwi koon sannodug ikoja lucidufen.",
+    "bio": "Wuovu ke colud taznubke leohwek fohvi gemehzah vihraksan nul regoz sutacnap hed jape kizepuuwa dalwiup bepezarap egiol he. Vawre lefok wegbona ev roruipo pacogo sib wob umzod gufudukad uhga zov ovenjuw sa usze hioscib. Dib biuk gan unaca urepomug foleti revkije zu fazvej roomdam ra zi eba cezono biozavi vitagu."
+  },
+  "apiKey": "a1d7a23c1f5246e7c94b35899fdba8ee36a44b13287f685fc82f187e45ab552b",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}

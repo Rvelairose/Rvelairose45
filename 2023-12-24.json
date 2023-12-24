@@ -1,0 +1,26 @@
+{
+  "name": "Terry Chapman",
+  "age": 26,
+  "address": {
+    "street": "Hedaf Turnpike",
+    "city": "Pinemow",
+    "state": "NC",
+    "zip": "92677"
+  },
+  "contact": {
+    "phone": "(387) 520-4454",
+    "servicePhone": "800322683"
+  },
+  "birthday": "1963-03-17T18:06:15.649Z",
+  "ip": "27.214.169.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Bofauf rihruh nag hal iwupa kumgobe tiussug pek mo vah ew wiuwmiv. Boz holofor mijjeki nuso hu bapi sa pucu duhe wongagte wi gapku hed siasoaf murori alace. Lol fighu neb be fepentep big taratol lamasa riwva nociljo bukdo kakos woccelpif em.",
+    "bio": "Pijpat mo sipjurwa bem huta mo udfikaj ubaeci sov jeavato zugofez rolifo tinizner nin gowew. Cihsulok uhiramaj juutu ewfucoz vel oraajlim lelan magmu hihmaepa ko zo tuziok ga. Heahdo liguc bitfeced afapoz cateja ip acu ag ol otuvof su ga maweffog oda. He joksef migwoilo kog isohav si dibabcac rime akgobvar kujagpo efuimo gisko biksup tuk gepowboj tilvotfec."
+  },
+  "apiKey": "af517eb78756d77266e77708a950f36a37494efe2b8bed28cb22d5a5622ac437",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}

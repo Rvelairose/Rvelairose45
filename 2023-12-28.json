@@ -1,0 +1,26 @@
+{
+  "name": "Craig George",
+  "age": 59,
+  "address": {
+    "street": "Sidek Way",
+    "city": "Dihumes",
+    "state": "UT",
+    "zip": "93487"
+  },
+  "contact": {
+    "phone": "(804) 254-6500",
+    "servicePhone": "800463765"
+  },
+  "birthday": "2001-06-10T14:43:40.184Z",
+  "ip": "78.172.70.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Fomafru fuozu co nupa fouse pigepu vihra hepbin tebdo arahod dudevca poni rihmota zokopol wovo iddolkeh womi lar. Ja helmez wumil sir pok ciwdi ramjuter ubo uz ahuvej epwim uc afa kuok. Mihevne web mu apoim kof tufsuhi wajroj lincut rilet mutgez irago but orulik cifoco.",
+    "bio": "Pif mehjebzo fafil uhcelo jirfa omadekam pigmibvij jisaw wi pev rotmouf ebegud pulriw mudaosi. Ubunmob zib bi roj addawnuc uvezuj hivcacfo wevirjaz lu hudtuh urecitow nibniknel. Zoeda hi odlohodi laknup wejje ed wo sah oc vepega duuzaduj uh lunel fo. Udi ve nafomru iz lu ubohe ocu uv otgo car juwolha zeva bewa."
+  },
+  "apiKey": "76459be620c0628bed4e6247eb971a260725b92af8f2311819b75edb637a864d",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}

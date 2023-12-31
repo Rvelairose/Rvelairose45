@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Fields",
+  "age": 46,
+  "address": {
+    "street": "Mimuc Turnpike",
+    "city": "Tawtukba",
+    "state": "SC",
+    "zip": "26026"
+  },
+  "contact": {
+    "phone": "(232) 901-3189",
+    "servicePhone": "800369722"
+  },
+  "birthday": "1977-03-25T20:34:39.814Z",
+  "ip": "121.173.91.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Kivozdew konoswet gomto go side ujdum sa dom ewiepho veta sis lec. Bahviwka uwmuheru ciumo du ik feem govo sagfo jivemusa ki gep dehso ido zag nuh vovit. Es dimrig idhedek pezmoce ucna naulade zo pusku adto nak netrulak awetehviw zawloowu ogiziknat nulif ku. Tedu god gifiac vu afitarla isofij uloij ta ragarsiw av wov cepdod iv wowaf. Haig tokadga ri zadikum ub cagwoug jege witemat vo joshovupo ahatu ali veabije umhooc olge ukaugigu cebikuwu.",
+    "bio": "Dezofow vorate togaba watijoga jik pojcu nimesali ezizosi uz ru wioga ededun. Muhzok go mozuj je rokutfok utso demnoh epu nubta bu ku cesged. Bogpe er gejwulef ef oki hujnomda rikfi dik tetac codmif po ejotim usajpi aj."
+  },
+  "apiKey": "7d1ef5a7b597c9a3183f390a19051a10fee8564e7b43e4e43d6096d536defb72",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}

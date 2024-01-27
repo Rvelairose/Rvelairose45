@@ -1,0 +1,26 @@
+{
+  "name": "Emma Franklin",
+  "age": 27,
+  "address": {
+    "street": "Okku Center",
+    "city": "Tehilbi",
+    "state": "PA",
+    "zip": "90859"
+  },
+  "contact": {
+    "phone": "(321) 827-7924",
+    "servicePhone": "800892868"
+  },
+  "birthday": "1972-06-26T23:35:42.224Z",
+  "ip": "99.240.66.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Samvugfaj pu pel ojgob jebovew jizap kibofo papte tari cu veneg vumuh. Guata aroda cov veowaru emavil wi kamoni wutjoeze vol ciwisfe owikog oz licavho tor cac. Uv puh imocir vetkur as reewozu muskaba fujma wagi wop kuvucavon jopbo gu lodhad zihpid.",
+    "bio": "Dolde osmenot lujo hiseto budpubzaf ide vuclecno duon guhlemzur pila ti uzo tojis. Ar bijiw wafizjov abe muj goh noteja ago mopden lurge pe fu koj cufdiwaj igborjid. Bowozan gaf woziwu viw jodol jimkarta ba ru cepunegu wonijmis uhuj tavec dumipzi kihudwiv fo keduwza mico. Perambet hopejunej kofojok jonzabu ulca an cawof vovakiibe gagow pewpus zo jisavi gelunica ape tavo ge."
+  },
+  "apiKey": "61887855106132f569d038a22d800dd3c3dee6df50a806c7bdaad3c40b95b27b",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}

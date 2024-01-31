@@ -1,0 +1,26 @@
+{
+  "name": "Marc Turner",
+  "age": 42,
+  "address": {
+    "street": "Regfu Center",
+    "city": "Kicuwjas",
+    "state": "KS",
+    "zip": "10416"
+  },
+  "contact": {
+    "phone": "(372) 929-3220",
+    "servicePhone": "800774624"
+  },
+  "birthday": "2000-08-28T07:44:42.307Z",
+  "ip": "88.78.68.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Gizheet giftem lap poc viuz konwurtak ru dupakil nemfazi ledad sovnej ku fip. Lafkot no pebitiges hu hobezet jevinus sonatat jaso iwjoj gufraomo cievu tu. Lewba dohdiof bubtuciha gujul ep rilar ri pal hogciw vololije hu vo jojowdub ci tek wemva wesik riv. Tospejit bapectaw rohfebuz cowfot casgu temavme kehnar tufomwe ju mes hovamere vuile. Rez joad ase afa zifzehsar awu oju ci muacelo eti canaoz pa ofad uh tom.",
+    "bio": "Unoeki jojedek kuhnufgit debolmu jozohuvu tit dejurijo kunjovfof so hep les lun situ. Pumsal biftus je mafuzat inpav za lubif iffuvje gemofvi riloul ganati wa meb eleteca nebi etwif gingo wihit. Absil arajogje luwu lel evu kekpot negluvzu tekatigiw moge asanuhu rifna pipubsa zuzu reisimas iretolten zevpovto da bewjakge. Tuniru vopi hot aleefo inecduv hipe iw waipufud new jin sakracre mepjonovi ig. Ta nufuv bu wagab uwhe surca etaasri acujad nidajha ifa faki uki raz tapmaj hozop iwzioju abhunteh lowbif. Be ula wi umtuf ku su job wur pa zuta razehbe rohuv inorilig voraf."
+  },
+  "apiKey": "f2ea8c896092257db802b48b9c64c51149be334ada99fd98def73f61d720b032",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}

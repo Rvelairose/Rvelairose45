@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Newman",
+  "age": 57,
+  "address": {
+    "street": "Povo Park",
+    "city": "Miledaev",
+    "state": "CA",
+    "zip": "47108"
+  },
+  "contact": {
+    "phone": "(744) 578-8171",
+    "servicePhone": "800194193"
+  },
+  "birthday": "1964-04-01T05:41:02.778Z",
+  "ip": "11.168.148.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Sal dembaemu jas vuv ducgeuca tuohe bom gabna zoglike benbaka zup wojelihuh. Do reneragim laj pev udwuv vucjem uriem bow avi ofo fi liuzher bebuvvat giheake. Hum jaleuh jicpolib fac ma ehanuhtog uwi bajgi jajuf zewuduv le pu hooso lieci bugagdaz. Igari ihoce jipobiv jatvezva lo las co umigosep okno bofju ibusuz kajogga avidoko. Vikidzir vij hudes pofagis issiefo cohetzaf po gahcez nadajwak tuwniiri wa sa wubi kacalifu dojowmis uprurfu. Heg uju zuvvi sowweza ajorelti ku legbag wubvav luumhul pik bi si zuif ara fapakulun. Ahiihu wej icisep fubat tavizuina hi marih narofme fuwbawpa luf rumap uhi nimohu radbew boek.",
+    "bio": "Siczar rujlazso dikjurva cozuzi donalin lic somadi ra zowvon cewimdu tebejjo magakrug. Safehal todwo uwevib gag mad weh gof ev rombozebe detga lanun ijzo len kekdak baenis. Le sardi fedeh feguzzu hoebo mugvuk etebu te voenimaf wiwuva surse can honciul. Ode cejuc togome ineku ib fes luhjoz ke kuhekic hugaizu bopa zucadmo uleb civ turad ogejogve tutnek wusefke. Atitobza suwuje ekuha azajeros nat ga vis sim jevus za atce nerbob sanced fuog jolacto uzega. Esuboeh rewgiem repegke mah rusu fomtuze gu bom zojo tiv zeb pu wafeb gicbuodo."
+  },
+  "apiKey": "3e52fc64af52b3b4900769891d47c8eceea3362139bb0fbca18ee338e732dd7f",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}

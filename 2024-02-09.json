@@ -1,0 +1,26 @@
+{
+  "name": "Steve Strickland",
+  "age": 21,
+  "address": {
+    "street": "Kokna Pass",
+    "city": "Neneniwil",
+    "state": "NY",
+    "zip": "98419"
+  },
+  "contact": {
+    "phone": "(269) 821-6791",
+    "servicePhone": "800922899"
+  },
+  "birthday": "1993-12-11T01:01:11.900Z",
+  "ip": "220.183.64.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Cinizuuni nuzo du sis govemjo ciofab zofaod ugi gavnetzuf do zevik pane bizce dawi ejilige sovtac un borlonnub. Rol jajge dijejama pi anoupur wor mik luvvejeb web juawe tam wa vibi fip ini fazra. Vi lohpi bid kaf we pahwon dur awali joara ig cefim ito olgovjoh ofusa iz lavev. Cohufe covuzosa ifi gur vapagsu ul ni uzzefguz vo vu wotime ak fa. Osalafcop anidugas fassibe lihufhug fedoj tatozcof oflizi penhagje jefacepa omela obe timdako riric gap fa ap. Cezkit rippe komja noci azo su pijuk zob tomuhul bilced nemeka hivi. Tattoget zicikilom urilateb wupu ejko kozecuh jowoko adusur tup bav dij mimirud dicsat zirhoc ser lezivmab cu.",
+    "bio": "Fuj foggavzow ohli gozewak weoli kejam go iwiga fecloz fugsu bom giwcatul. Da luja peowo dit pibu lirata ziukro jegrisaz kameruj anvivpe ehezu cise. Anco oboejtit rir jita meedune otzo necu bas tubap taf jocogkiv ivusioro ga awa. Labci uce dap jucwuuru udi ri afgota fizof fe lof no kuwut sug jecij vebzu pegilehe. Nuhsebdi wevijhe kimbi uw ozanowsav ku ufwin rukna patur bovenin soc dumufav ajogiz dic. Ka ijuciige dewud ac ha hovavbed ofege toiga wedguto huc oke opedi zejbuc pecul base suluvvif. Natu sisohdoj moz fenhom sif jet roluk hubfifos naj jawji rulufa ci tutmam fe howuckop ha."
+  },
+  "apiKey": "3db8880deb1b44e15f9b23ef8b731eb8c2c49ae5375cdf67bf6a18c8b79a3c40",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}

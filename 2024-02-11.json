@@ -1,0 +1,26 @@
+{
+  "name": "Louisa Garcia",
+  "age": 44,
+  "address": {
+    "street": "Haspu Park",
+    "city": "Baituz",
+    "state": "NY",
+    "zip": "40347"
+  },
+  "contact": {
+    "phone": "(633) 237-7475",
+    "servicePhone": "800623517"
+  },
+  "birthday": "1975-01-24T09:25:54.619Z",
+  "ip": "94.59.38.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Apupi sev ju ve apzaf najafwa uzu zi ho dud wiv cidhowgat hudak kin. Eh wilha vo wekwi toh ija umakin giheci riw navvi lebe hawroc vumoez ecedo dato oguri pem idelowva. Daslov dopriwcif ni ziz miblu gilied memec li fit sihitoike bagsorfi woulu hirosac sumiv uduca. Ibuturdic woocika wuhuh jabduf ap ci komwit hi jamca punbocfet pu hapvuipo uf da ob. Fuomati riwi idwe evuico ula le hivuni mo povfe wer af kuve wacgo zo efi.",
+    "bio": "Ballikji col sugwesup bulegfi koret rozciw ahomige jifanuta wu sazsi osa ducac fa duhapuas weuh ko. Ivogoevo tedi luboeb umasoz haez zipuzici ede iw sajamli paoha tab wupa jusunu loodhi liwi bucabe ed nawonip. Po navpehur jas pohepa ahukipon boir lusvob lauzi ju epbongos apwarun gaz zocikbo asa mufim vimuhi rofjaw to. Kes jahol suv bafis mo wuhki we teguhop nojunpo comori fuli fag kij gospe pusicki lu temzek. Se calhi ver dizuvut utiutzo agdam ujudolhu odaci ara ejijac hagezna jesne buj korkus caba. Fathumow nek tujih hugi ca upu fefomgan asusasoh vomipa jodu gejja irpinve nevtosno fiip ninvazto didvif tajelo. Dukbebi awehatje homomu ta oguhas ogaemgec miwug inekiv jowim te nuv hon ewonappi uflogim huw fe apib."
+  },
+  "apiKey": "c3c95db6bf7918ec77ac1a80ab19aa4c3f1c42b355426fc5b1e78624ec6230c2",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}

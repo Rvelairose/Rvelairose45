@@ -1,0 +1,26 @@
+{
+  "name": "Inez Campbell",
+  "age": 24,
+  "address": {
+    "street": "Fogi Way",
+    "city": "Alcojip",
+    "state": "SD",
+    "zip": "86255"
+  },
+  "contact": {
+    "phone": "(533) 895-3036",
+    "servicePhone": "800818664"
+  },
+  "birthday": "2002-03-26T03:22:55.642Z",
+  "ip": "50.89.191.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Be ponbi zukpeni al pir hejsedir woazofik so wefgulaki mev iwuka immavo to varme ini. Nevruj va rojhuuzi zukuwaz lugde nuzawicat peluni veppar kidmig juafbin dowinu tedadeni tanteghuc pebmef gietvih lifjav he co. Vul edikukaz ubwad fam vajsauve zibon efi duhi lew fuefma duw cur gioki hij vuc waavu pufus. Vojele sagbuze lufi bu pouc unfahjus cu celor favfa fer fijvocig ure wuvdez. Ac sis judulo moguj bocas poep meriad dowjari odlo wezo wu lufep imadujbu bevilguh pat zo guaslor izhi. Sa upata taf hus zorcod mewbiju iwe subipbi mon gidih lokveprem on pamzegne puse nacejbe ri uhmu jol.",
+    "bio": "Li hi bo fikuwfa ceusde cu zipwe logo vi nahdosudu up vi. Movzopvu fiwrubce nih fivdes wof kirrukco ujevo awkidek kawup bevligta rib duw umuhoj zo wogzi zectipuk lidfo rocam. Ha wi lot ad gadlik cuhakha dufka gerbomdut adecodo vopefna dobi futod niswo."
+  },
+  "apiKey": "a662f7eb3a9111321c6e0fcc54c9ecbc2abdbd1d3496297932b77fc3919a16f8",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}

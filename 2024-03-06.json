@@ -1,0 +1,26 @@
+{
+  "name": "Cecelia Wong",
+  "age": 38,
+  "address": {
+    "street": "Soep Park",
+    "city": "Hivete",
+    "state": "OK",
+    "zip": "80813"
+  },
+  "contact": {
+    "phone": "(745) 504-1378",
+    "servicePhone": "800496396"
+  },
+  "birthday": "2005-12-11T03:08:05.579Z",
+  "ip": "212.197.182.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Lar esa dudassac kuonu cezkupov efonuc pevwetuf wuwoz tim cupap fozwo mici. Rerac ruzi cemopa evi bugifin pa me mucaj makneh juocova bambume ku afcoj pu. Bipuw vemu fa wapez pebotde zi nisi pol wid jisi tihe komifme ur so cajgeh mik. Rajtof kumecisid raevwu vofu akcefa vaboj momsiug kuuvak ga fujpetjoh jef gojvil kigdubbew zaplevve so le imani.",
+    "bio": "Nap rirnub rikem ejetojet we eza amvebtit won zosotad biukpe le jenecav sogcow vijovu dapel. Navipnes ohicit viubouz sekcimaf oz kuca lurbabi wejlol mawja uchodih imbein cipehofi. Ufle epaveho pafujsa uftup sojeko komowape wadjilpu favu tihza fi cukhidwop tuhov ju logtutpu."
+  },
+  "apiKey": "a33ac7563780576e6d2e4d43d21ed93df76b181edf4570cca31de01b8bc765dd",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}

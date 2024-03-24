@@ -1,0 +1,26 @@
+{
+  "name": "Edith Garcia",
+  "age": 43,
+  "address": {
+    "street": "Aljan Pass",
+    "city": "Womujac",
+    "state": "WY",
+    "zip": "29562"
+  },
+  "contact": {
+    "phone": "(305) 826-8936",
+    "servicePhone": "800592727"
+  },
+  "birthday": "1975-02-21T21:10:25.244Z",
+  "ip": "169.198.119.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Her ame cazgisa soofe famtu homijeni seswis ve wutub waat re so ezozel. Rage si hitlu cihahtid taeb bapemet lurbotere ca imuba jaim sag tehu nil uh eb. Regas moh rees hadvorjuj deshi lid asihis omme jomded madaz gajafo pohcif muekpok. Woh iranaeb hudujin tulliud pomgu lifit siset esipuc raf ruges orjafmel avfo gebka.",
+    "bio": "Uw wusam sud palahji uzbuja kimfabis sivad lal di jobece jukeffiv ife gikno be omuofu ehe abkogizu. Sorsi cohi zuh fihawew rukuhhe wedal hoef ha akati lud duf wa. To kih ve cok veg titrume nuf zosga et rato ta kis hacen loge izbo usatifoc. Tigacnun re fivseni mok ogucumobu hihabet el mav ha wocof kira ludni mowrades tevzo peglu."
+  },
+  "apiKey": "176028b5db15158b10291ac208b187db709317a22fa8844ec4687209d5ad67ee",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}

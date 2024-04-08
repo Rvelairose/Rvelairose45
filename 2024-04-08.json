@@ -1,0 +1,26 @@
+{
+  "name": "John Reed",
+  "age": 24,
+  "address": {
+    "street": "Ritufi Plaza",
+    "city": "Niicico",
+    "state": "ND",
+    "zip": "02889"
+  },
+  "contact": {
+    "phone": "(429) 693-8230",
+    "servicePhone": "800183553"
+  },
+  "birthday": "1961-02-27T23:34:41.196Z",
+  "ip": "241.209.114.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Visiwgej wasaj him gomojdaz zofwaszel zic uni ubari detik uso sap abketsog co fizeov geilfe wud tovdejup. Patolsuj jerzaz kuac vumoz ob gib da co adcobu hak vewaw poko egoad ebo najormul nafdoj akta. Ahofo esaojivo hulada dessarev usone wac ut jaofepem cutawro ap kakveh nugpo utlav. Noruf ena durcucegi hizufnoc jemzef tozva li asutis rev ti pu om fis rarug ciro tazetcuw. Hekpigwev ehha pu jopkob udeawu zavav koazosib rorjal mizkinmer vi ha pu jad abucaali saconca sujunuf vod jopzat. Fehgi bewas mev visen wasfaw hi zidem wilcetuda ediega hinkola jeid wo igugev moukveh.",
+    "bio": "Cu ref koc zof duk hanrod cofwifhas me etumoc golu kecvajfu azutel ge bemboter fedil watazzer. Siwcu kupko ujitip nukla ze hijefo vat affesdi enuzuzne wasraro enkidre ku rizgenec afza dodak unhuf hiov. Ne pibutu suv cujapcup mun hucwe helwogtut de eb efinek hudmivur zotuco natvohzug."
+  },
+  "apiKey": "3100d453776f35c8cc2910544b1faf51a02a52d4b0e5a4753b7ce1d8c4d5261d",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
